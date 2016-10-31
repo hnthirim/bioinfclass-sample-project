@@ -1,5 +1,5 @@
 Homework 
-Learning GitHub with my hubby 
+Learning GitHub 
 # Bioinfclass Notes
 
 
